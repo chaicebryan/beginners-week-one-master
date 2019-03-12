@@ -1,7 +1,7 @@
 # CFG Week One
 ## Intro to the world of the web and HTML
 
-Welcome to Code First Girls!
+Welcome to Code First Gals!
 
 To complete this exercise, click on the green `Clone or Download` button on the top right, and select the `Download ZIP` option.
 
